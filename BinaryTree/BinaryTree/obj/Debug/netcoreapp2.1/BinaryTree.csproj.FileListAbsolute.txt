@@ -1,0 +1,11 @@
+C:\dev\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.deps.json
+C:\dev\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.runtimeconfig.json
+C:\dev\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.runtimeconfig.dev.json
+C:\dev\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.dll
+C:\dev\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.pdb
+C:\dev\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csprojAssemblyReference.cache
+C:\dev\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csproj.CoreCompileInputs.cache
+C:\dev\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfoInputs.cache
+C:\dev\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfo.cs
+C:\dev\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.dll
+C:\dev\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.pdb
